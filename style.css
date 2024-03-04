@@ -9,11 +9,11 @@
 
 *::selection {
     background: #0f5386;
-    color: #F1F5A8
+    color: #FEECE2
 }
 
 body {
-    color: #B2B377;
+    color: #E2BFB3;
 }
 
 .header {
@@ -32,7 +32,7 @@ body {
 .logo {
     position: relative;
     font-size: 25px;
-    color: #B2B377;
+    color: #E2BFB3;
     text-decoration: none;
     font-weight: 600;
 }
@@ -44,14 +44,14 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #B2B377;;
+    background: #E2BFB3;;
     animation: showRight 1s ease forwards;
     animation-delay: .4s;
 }
 
 .navbar a {
     font-size: 18px;
-    color: #B2B377;;
+    color: #E2BFB3;;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -66,7 +66,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url('Profilbild\ Adrian.jpg') no-repeat;
+    background: url('Personal_picture.png') no-repeat;
     background-size: cover;
     background-size: 30%;
     background-position: right;
@@ -96,7 +96,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #B2B377;
+    background: #E2BFB3;
     animation: showRight 1s ease forwards;
     animation-delay: 1s;
 }
@@ -133,7 +133,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #B2B377;
+    background: #E2BFB3;
     animation: showRight 1s ease forwards;
     animation-delay: 1.6s;
 }
@@ -153,7 +153,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #F1F5A8;
+    background: #FEECE2;
     animation: showRight 1s ease forwards;
     animation-delay: 1.9s;
     z-index: 2;
@@ -166,11 +166,11 @@ body {
     align-items: center;
     width: 150px;
     height: 100%;
-    background: #B2B377;
-    border: 2px solid #B2B377;
+    background: #E2BFB3;
+    border: 2px solid #E2BFB3;
     border-radius: 8px;
     font-size: 19px;
-    color: #F1F5A8;
+    color: #FEECE2;
     text-decoration: none;
     font-weight: 600;
     letter-spacing: 1px;
@@ -185,7 +185,7 @@ body {
 
 .btn-box a:nth-child(2) {
     background: transparent;
-    color: #B2B377;
+    color: #E2BFB3;
 }
 
 .btn-box a:nth-child(2):hover {
@@ -193,7 +193,7 @@ body {
 }
 
 .btn-box a:nth-child(2)::before {
-    background: #F1F5A8;
+    background: #FEECE2;
 }
 
 .btn-box a::before {
@@ -203,7 +203,7 @@ body {
     left: 0;
     width: 0;
     height: 100%;
-    background: #F1F5A8;
+    background: #FEECE2;
     z-index: -1;
     transition: .5s;
 }
@@ -227,7 +227,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #F1F5A8;
+    background: #FEECE2;
     animation: showRight 1s ease forwards;
     animation-delay: 2.5s;
     z-index: 2;
@@ -241,7 +241,7 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #B2B377;
+    border: 2px solid #E2BFB3;
     border-radius: 50%;
     font-size: 20px;
     color: #0f5386;
@@ -252,7 +252,7 @@ body {
 }
 
 .home-sci a:hover {
-    color: #F1F5A8;
+    color: #FEECE2;
 }
 
 .home-sci a::before {
@@ -262,7 +262,7 @@ body {
     left: 0;
     width: 0;
     height: 100%;
-    background: #B2B377;
+    background: #E2BFB3;
     z-index: -1;
     transition: .5s;
 }
@@ -285,7 +285,7 @@ body {
 }
 
 .home-imgHover:hover {
-    background: #B2B377;
+    background: #E2BFB3;
     opacity: .8;
 }
 
@@ -296,7 +296,7 @@ body {
     right: 0;
     width: 135%;
     height: 100%;
-    background: #F1F5A8;
+    background: #FEECE2;
     animation: showRight 1s ease forwards;
     animation-delay: 3s;
     z-index: 100;
